@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+        font-family: 'Andada Pro', serif;
+  background: linear-gradient(#f5073f 0%,#1f32de 100%);
+}
+h1{
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 20px;
+}
+#bio{
+  padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+#welcome{
+    text-align: center;
+        font-family: 'Andada Pro', serif;
+  background: linear-gradient(#f5073f 0%,#1f32de 100%);
+}
+#img{
+    height: 225px;
+    width: 275px;
+    border-radius: 5px;
+}
+hr{
+    height: 6px;
+    background-color: black;
+        width: 70px;
+    margin: 8px auto;
+}
